@@ -1,8 +1,8 @@
 # sysWebBlocker
-## Just a simple website blocker for WINDOWS OS
+** Just a simple website blocker for WINDOWS OS
 
 ## What it does?
-sysWebBlocker blocks any given website through the hosts file. It add the website to the hosts file in the C:\Windows\Systems32\drivers\etc
+sysWebBlocker blocks any given website through the hosts file. It add the website to the hosts file in the 'C:\Windows\Systems32\drivers\etc'
 
 ## TODO:
 * Add UNBLOCK feature
